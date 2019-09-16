@@ -4,10 +4,8 @@
 
 <p align="center">
   </br>
-  <img src="frontend/src/logo.png"/>
+  <img src="https://user-images.githubusercontent.com/21986859/49331920-b6fe5c00-f572-11e8-9e6f-85264715e69a.png"/>
 </p>
-
-
 # Noize
 
 Project proudly developed during MLH Local Hack Day December 1, 2018 at UTSC.
